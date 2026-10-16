@@ -17,7 +17,7 @@
 const valmelio = {
   local: "Aracaju, SE 🇧🇷",
   cargo: "Desenvolvedor",
-  foco: ["automação", "inteligência artificial", "produto"],
+  foco: ["desenvolvimento full stack", "front-end", "back-end"],
   formacao: "Ciência da Computação — UNIT (2028)",
   estudandoAgora: ["Java", "Código Limpo", "Banco de Dados"],
   filosofia: "Tecnologia boa é a que resolve problema de verdade.",
@@ -43,9 +43,7 @@ const valmelio = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IA%20%26%20Automação-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
