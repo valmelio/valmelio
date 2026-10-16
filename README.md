@@ -51,11 +51,10 @@ const valmelio = {
 
 ---
 
+
 ### 📈 Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valmelio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://streak-stats.demolab.com?user=valmelio&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=valmelio..." />
+  <img height="165" src="https://streak-stats.demolab.com?user=valmelio..." />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
